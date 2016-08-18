@@ -1,0 +1,46 @@
+{
+  "images": [
+    {
+      "url": "header-bg1.jpg",
+      "desc": "Rice fields in Southern Sri Lanka",
+      "text-color": "#fff",
+      "style": "background-position: center center;"
+    },
+    {
+      "url": "header-bg2.jpg",
+      "desc": "US Highway 1 towards Key West, FL",
+      "text-color": "#1a1a1a",
+      "style": "background-position: center bottom;"
+    },
+    {
+      "url": "header-bg3.jpg",
+      "desc": "Building fences at a cattle station deep in Western Australia",
+      "text-color": "#1a1a1a",
+      "style": "background-position: center bottom;"
+    },
+    {
+      "url": "header-bg4.jpg",
+      "desc": "Coki Bay, US Virgin Islands",
+      "text-color": "#1a1a1a",
+      "style": "background-position: center bottom;"
+    },
+    {
+      "url": "header-bg5.jpg",
+      "desc": "A farmer mustering his cattle near Pincho, Portugal",
+      "text-color": "#fff",
+      "style": "background-position: center top;"
+    },
+    {
+      "url": "header-bg6.jpg",
+      "desc": "Roadside house near Aljezur, Portugal",
+      "text-color": "#fff",
+      "style": "background-position: center top;"
+    },
+    {
+      "url": "header-bg7.jpg",
+      "desc": "Goats on the railway at Ahangama Station, Sri Lanka",
+      "text-color": "#fff",
+      "style": "background-position: center top;"
+    }
+  ]
+}

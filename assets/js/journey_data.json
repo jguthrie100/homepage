@@ -1,0 +1,3149 @@
+{
+  "type": "FeatureCollection",
+  "locations": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.85754,
+          53.72702
+        ]
+      },
+      "properties": {
+        "name": "Halifax"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2426305,
+          53.4807593
+        ]
+      },
+      "properties": {
+        "name": "Manchester"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.404954,
+          52.52000659999999
+        ]
+      },
+      "properties": {
+        "name": "Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9304397,
+          37.0193548
+        ]
+      },
+      "properties": {
+        "name": "Faro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.787727099999999,
+          37.085011
+        ]
+      },
+      "properties": {
+        "name": "Moncarapacho"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6730275,
+          37.1027881
+        ]
+      },
+      "properties": {
+        "name": "Lagos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.698179,
+          37.1983301
+        ]
+      },
+      "properties": {
+        "name": "Moinhos Velhos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1277583,
+          51.5073509
+        ]
+      },
+      "properties": {
+        "name": "London"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8776559,
+          19.0759837
+        ]
+      },
+      "properties": {
+        "name": "Mumbai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.861243,
+          6.9270786
+        ]
+      },
+      "properties": {
+        "name": "Colombo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3575128,
+          7.139777
+        ]
+      },
+      "properties": {
+        "name": "Andugoda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8677444,
+          1.3553794
+        ]
+      },
+      "properties": {
+        "name": "Singapore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9630576,
+          -37.8136276
+        ]
+      },
+      "properties": {
+        "name": "Melbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.1245535,
+          -34.2080167
+        ]
+      },
+      "properties": {
+        "name": "Mildura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8604572,
+          -31.9505269
+        ]
+      },
+      "properties": {
+        "name": "Perth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.661,
+          -24.884
+        ]
+      },
+      "properties": {
+        "name": "Carnarvon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.593597,
+          -24.45363
+        ]
+      },
+      "properties": {
+        "name": "Eudamullah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.9595757,
+          -26.1173018
+        ]
+      },
+      "properties": {
+        "name": "Wongawol"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.062,
+          -37.888
+        ]
+      },
+      "properties": {
+        "name": "Carnegie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.111298,
+          -23.480459
+        ]
+      },
+      "properties": {
+        "name": "Ullawarra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.3769543,
+          -33.26007
+        ]
+      },
+      "properties": {
+        "name": "Freemantle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.119904,
+          -25.049179
+        ]
+      },
+      "properties": {
+        "name": "Jimba Jimba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.2126293,
+          -8.670458199999999
+        ]
+      },
+      "properties": {
+        "name": "Denpasar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.2630142,
+          -8.4977259
+        ]
+      },
+      "properties": {
+        "name": "Ubud"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5074108,
+          -8.5298984
+        ]
+      },
+      "properties": {
+        "name": "Padang Bai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.4338,
+          -8.169761000000001
+        ]
+      },
+      "properties": {
+        "name": "Gilimanuk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.3692267,
+          -8.2192335
+        ]
+      },
+      "properties": {
+        "name": "Banyuwangi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3694896,
+          -7.7955798
+        ]
+      },
+      "properties": {
+        "name": "Yogyakarta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.845599,
+          -6.2087634
+        ]
+      },
+      "properties": {
+        "name": "Jakarta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.686855,
+          3.139003
+        ]
+      },
+      "properties": {
+        "name": "Kuala Lumpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7780548,
+          -16.9185514
+        ]
+      },
+      "properties": {
+        "name": "Cairns"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.316667,
+          -16.25
+        ]
+      },
+      "properties": {
+        "name": "Daintree"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.4547764,
+          -16.0877894
+        ]
+      },
+      "properties": {
+        "name": "Cape Tribulation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.465278,
+          -16.483611
+        ]
+      },
+      "properties": {
+        "name": "Port Douglas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.4858599,
+          -17.2660801
+        ]
+      },
+      "properties": {
+        "name": "Atherton"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2092955,
+          -33.8688197
+        ]
+      },
+      "properties": {
+        "name": "Sydney"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3287589,
+          5.4141675
+        ]
+      },
+      "properties": {
+        "name": "Penang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4746879,
+          7.0086472
+        ]
+      },
+      "properties": {
+        "name": "Hat Yai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.9062835,
+          8.0862997
+        ]
+      },
+      "properties": {
+        "name": "Krabi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5088966,
+          13.7583679
+        ]
+      },
+      "properties": {
+        "name": "Ton Sai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.8328141,
+          8.0362834
+        ]
+      },
+      "properties": {
+        "name": "Ao Nang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.3217483,
+          9.1382389
+        ]
+      },
+      "properties": {
+        "name": "Surat Thani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5017651,
+          13.7563309
+        ]
+      },
+      "properties": {
+        "name": "Bangkok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2090212,
+          28.6139391
+        ]
+      },
+      "properties": {
+        "name": "New Delhi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.890401,
+          52.48624299999999
+        ]
+      },
+      "properties": {
+        "name": "Birmingham"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9602786,
+          50.937531
+        ]
+      },
+      "properties": {
+        "name": "Köln"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5819806,
+          48.1351253
+        ]
+      },
+      "properties": {
+        "name": "Munich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.05501,
+          47.80949
+        ]
+      },
+      "properties": {
+        "name": "Salzburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5057515,
+          46.0569465
+        ]
+      },
+      "properties": {
+        "name": "Ljubljana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.981919,
+          45.8150108
+        ]
+      },
+      "properties": {
+        "name": "Zagreb"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2313648,
+          44.119371
+        ]
+      },
+      "properties": {
+        "name": "Zadar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4401935,
+          43.5081323
+        ]
+      },
+      "properties": {
+        "name": "Split"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.895167900000001,
+          52.3702157
+        ]
+      },
+      "properties": {
+        "name": "Amsterdam"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0457538,
+          42.331427
+        ]
+      },
+      "properties": {
+        "name": "Detroit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1917902,
+          25.7616798
+        ]
+      },
+      "properties": {
+        "name": "Miami"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.13731740000001,
+          26.1224386
+        ]
+      },
+      "properties": {
+        "name": "Fort Lauderdale"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.355413,
+          25.0479835
+        ]
+      },
+      "properties": {
+        "name": "Nassau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.95340089999999,
+          18.335361
+        ]
+      },
+      "properties": {
+        "name": "St. Thomas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.04713709999999,
+          18.0295839
+        ]
+      },
+      "properties": {
+        "name": "Philipsburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7799871,
+          24.5550593
+        ]
+      },
+      "properties": {
+        "name": "Key West"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0059413,
+          40.7127837
+        ]
+      },
+      "properties": {
+        "name": "New York"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.261953200000001,
+          43.7101728
+        ]
+      },
+      "properties": {
+        "name": "Nice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.148582999999999,
+          43.529171
+        ]
+      },
+      "properties": {
+        "name": "Cotignac"
+      }
+    }
+  ],
+  "journeys": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.85754,
+            53.72702
+          ],
+          [
+            -2.2426305,
+            53.4807593
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Halifax, UK",
+        "to": "Manchester, UK",
+        "depart": "09/07/2013",
+        "arrive": "09/07/2013",
+        "transport": "Train"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.2426305,
+            53.4807593
+          ],
+          [
+            13.404954,
+            52.52000659999999
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Manchester, UK",
+        "to": "Berlin, Germany",
+        "depart": "10/07/2013",
+        "arrive": "10/07/2013",
+        "transport": "Plane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.404954,
+            52.52000659999999
+          ],
+          [
+            -2.2426305,
+            53.4807593
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Berlin, Germany",
+        "to": "Manchester, UK",
+        "depart": "14/08/2013",
+        "arrive": "14/08/2013",
+        "transport": "Plane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.2426305,
+            53.4807593
+          ],
+          [
+            -1.85754,
+            53.72702
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Manchester, UK",
+        "to": "Halifax, UK",
+        "depart": "14/08/2013",
+        "arrive": "14/08/2013",
+        "transport": "Train"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.85754,
+            53.72702
+          ],
+          [
+            -7.9304397,
+            37.0193548
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Halifax, UK",
+        "to": "Faro, Portugal",
+        "depart": "07/10/2013",
+        "arrive": "07/10/2013",
+        "transport": "Plane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.9304397,
+            37.0193548
+          ],
+          [
+            -7.787727099999999,
+            37.085011
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Faro, Portugal",
+        "to": "Moncarapacho, Portugal",
+        "depart": "07/10/2013",
+        "arrive": "07/10/2013",
+        "transport": "Car"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.787727099999999,
+            37.085011
+          ],
+          [
+            -7.9304397,
+            37.0193548
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Moncarapacho, Portugal",
+        "to": "Faro, Portugal",
+        "depart": "19/10/2013",
+        "arrive": "19/10/2013",
+        "transport": "Car"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.9304397,
+            37.0193548
+          ],
+          [
+            -8.6730275,
+            37.1027881
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Faro, Portugal",
+        "to": "Lagos, Portugal",
+        "depart": "19/10/2013",
+        "arrive": "19/10/2013",
+        "transport": "Train"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.6730275,
+            37.1027881
+          ],
+          [
+            -8.698179,
+            37.1983301
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Lagos, Portugal",
+        "to": "Moinhos Velhos, Cotifo, Portugal",
+        "depart": "19/10/2013",
+        "arrive": "19/10/2013",
+        "transport": "Car"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.698179,
+            37.1983301
+          ],
+          [
+            -7.9304397,
+            37.0193548
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Moinhos Velhos, Cotifo, Portugal",
+        "to": "Faro, Portugal",
+        "depart": "28/11/2013",
+        "arrive": "28/11/2013",
+        "transport": "Car"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.9304397,
+            37.0193548
+          ],
+          [
+            -2.2426305,
+            53.4807593
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Faro, Portugal",
+        "to": "Manchester, UK",
+        "depart": "28/11/2013",
+        "arrive": "28/11/2013",
+        "transport": "Plane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.2426305,
+            53.4807593
+          ],
+          [
+            -1.85754,
+            53.72702
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Manchester, UK",
+        "to": "Halifax, UK",
+        "depart": "28/11/2013",
+        "arrive": "28/11/2013",
+        "transport": "Train"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.85754,
+            53.72702
+          ],
+          [
+            -0.1277583,
+            51.5073509
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Halifax, UK",
+        "to": "London, UK",
+        "depart": "09/12/2013",
+        "arrive": "09/12/2013",
+        "transport": "Bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.1277583,
+            51.5073509
+          ],
+          [
+            72.8776559,
+            19.0759837
+          ]
+        ]
+      },
+      "properties": {
+        "from": "London, UK",
+        "to": "Mumbai, India",
+        "depart": "10/12/2013",
+        "arrive": "11/12/2013",
+        "transport": "Plane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.8776559,
+            19.0759837
+          ],
+          [
+            79.861243,
+            6.9270786
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Mumbai, India",
+        "to": "Colombo, Sri Lanka",
+        "depart": "11/12/2013",
+        "arrive": "11/12/2013",
+        "transport": "Plane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.861243,
+            6.9270786
+          ],
+          [
+            80.3575128,
+            7.139777
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Colombo, Sri Lanka",
+        "to": "Andugoda, Sri Lanka",
+        "depart": "12/12/2013",
+        "arrive": "12/12/2013",
+        "transport": "Car"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.3575128,
+            7.139777
+          ],
+          [
+            79.861243,
+            6.9270786
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Andugoda, Sri Lanka",
+        "to": "Colombo, Sri Lanka",
+        "depart": "04/03/2014",
+        "arrive": "04/03/2014",
+        "transport": "Bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.861243,
+            6.9270786
+          ],
+          [
+            103.8677444,
+            1.3553794
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Colombo, Sri Lanka",
+        "to": "Singapore, Singapore",
+        "depart": "07/03/2014",
+        "arrive": "07/03/2014",
+        "transport": "Plane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.8677444,
+            1.3553794
+          ],
+          [
+            144.9630576,
+            -37.8136276
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Singapore, Singapore",
+        "to": "Melbourne, Australia",
+        "depart": "07/03/2014",
+        "arrive": "08/03/2014",
+        "transport": "Plane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            144.9630576,
+            -37.8136276
+          ],
+          [
+            142.1245535,
+            -34.2080167
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Melbourne, Australia",
+        "to": "Mildura, Australia",
+        "depart": "27/04/2014",
+        "arrive": "27/04/2014",
+        "transport": "Train"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            142.1245535,
+            -34.2080167
+          ],
+          [
+            144.9630576,
+            -37.8136276
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Mildura, Australia",
+        "to": "Melbourne, Australia",
+        "depart": "25/06/2014",
+        "arrive": "26/06/2014",
+        "transport": "Bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            144.9630576,
+            -37.8136276
+          ],
+          [
+            115.8604572,
+            -31.9505269
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Melbourne, Australia",
+        "to": "Perth, Australia",
+        "depart": "05/07/2014",
+        "arrive": "05/07/2014",
+        "transport": "Plane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            115.8604572,
+            -31.9505269
+          ],
+          [
+            113.661,
+            -24.884
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Perth, Australia",
+        "to": "Carnarvon, Australia",
+        "depart": "08/07/2014",
+        "arrive": "09/07/2014",
+        "transport": "Bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            113.661,
+            -24.884
+          ],
+          [
+            115.593597,
+            -24.45363
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Carnarvon, Australia",
+        "to": "Eudamullah, Australia",
+        "depart": "09/07/2014",
+        "arrive": "09/07/2014",
+        "transport": "Car"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            115.593597,
+            -24.45363
+          ],
+          [
+            113.661,
+            -24.884
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Eudamullah, Australia",
+        "to": "Carnarvon, Australia",
+        "depart": "24/07/2014",
+        "arrive": "24/07/2014",
+        "transport": "Plane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            113.661,
+            -24.884
+          ],
+          [
+            115.8604572,
+            -31.9505269
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Carnarvon, Australia",
+        "to": "Perth, Australia",
+        "depart": "25/07/2014",
+        "arrive": "26/07/2014",
+        "transport": "Bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            115.8604572,
+            -31.9505269
+          ],
+          [
+            121.9595757,
+            -26.1173018
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Perth, Australia",
+        "to": "Wongawol, Australia",
+        "depart": "30/07/2014",
+        "arrive": "30/07/2014",
+        "transport": "Car"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            121.9595757,
+            -26.1173018
+          ],
+          [
+            145.062,
+            -37.888
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Wongawol, Australia",
+        "to": "Carnegie, Australia",
+        "depart": "15/08/2014",
+        "arrive": "15/08/2014",
+        "transport": "Car"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            145.062,
+            -37.888
+          ],
+          [
+            121.9595757,
+            -26.1173018
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Carnegie, Australia",
+        "to": "Wongawol, Australia",
+        "depart": "30/08/2014",
+        "arrive": "30/08/2014",
+        "transport": "Road Train"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            121.9595757,
+            -26.1173018
+          ],
+          [
+            115.8604572,
+            -31.9505269
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Wongawol, Australia",
+        "to": "Perth, Australia",
+        "depart": "31/08/2014",
+        "arrive": "31/08/2014",
+        "transport": "Car"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            115.8604572,
+            -31.9505269
+          ],
+          [
+            113.661,
+            -24.884
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Perth, Australia",
+        "to": "Carnarvon, Australia",
+        "depart": "03/09/2014",
+        "arrive": "04/09/2014",
+        "transport": "Bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            113.661,
+            -24.884
+          ],
+          [
+            116.111298,
+            -23.480459
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Carnarvon, Australia",
+        "to": "Ullawarra, Western Australia",
+        "depart": "04/09/2014",
+        "arrive": "04/09/2014",
+        "transport": "Car"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.111298,
+            -23.480459
+          ],
+          [
+            115.8604572,
+            -31.9505269
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Ullawarra, Western Australia",
+        "to": "Perth, Australia",
+        "depart": "07/09/2014",
+        "arrive": "07/09/2014",
+        "transport": "Car"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            115.8604572,
+            -31.9505269
+          ],
+          [
+            149.3769543,
+            -33.26007
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Perth, Australia",
+        "to": "Freemantle, Australia",
+        "depart": "08/09/2014",
+        "arrive": "08/09/2014",
+        "transport": "Train"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            149.3769543,
+            -33.26007
+          ],
+          [
+            115.119904,
+            -25.049179
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Freemantle, Australia",
+        "to": "Jimba Jimba, Australia",
+        "depart": "15/09/2014",
+        "arrive": "15/09/2014",
+        "transport": "Car"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            115.119904,
+            -25.049179
+          ],
+          [
+            113.661,
+            -24.884
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Jimba Jimba, Australia",
+        "to": "Carnarvon, Australia",
+        "depart": "01/10/2014",
+        "arrive": "01/10/2014",
+        "transport": "Car"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            113.661,
+            -24.884
+          ],
+          [
+            115.8604572,
+            -31.9505269
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Carnarvon, Australia",
+        "to": "Perth, Australia",
+        "depart": "01/10/2014",
+        "arrive": "02/10/2014",
+        "transport": "Hitch Hike"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            115.8604572,
+            -31.9505269
+          ],
+          [
+            115.2126293,
+            -8.670458199999999
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Perth, Australia",
+        "to": "Denpasar, Indonesia",
+        "depart": "03/10/2014",
+        "arrive": "03/10/2014",
+        "transport": "Plane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            115.2126293,
+            -8.670458199999999
+          ],
+          [
+            115.2630142,
+            -8.4977259
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Denpasar, Indonesia",
+        "to": "Ubud, Indonesia",
+        "depart": "07/10/2014",
+        "arrive": "07/10/2014",
+        "transport": "Taxi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            115.2630142,
+            -8.4977259
+          ],
+          [
+            115.5074108,
+            -8.5298984
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Ubud, Indonesia",
+        "to": "Padang Bai, Indonesia",
+        "depart": "12/10/2014",
+        "arrive": "12/10/2014",
+        "transport": "Bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            115.5074108,
+            -8.5298984
+          ],
+          [
+            115.2126293,
+            -8.670458199999999
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Padang Bai, Indonesia",
+        "to": "Denpasar, Indonesia",
+        "depart": "15/10/2014",
+        "arrive": "15/10/2014",
+        "transport": "Minibus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            115.2126293,
+            -8.670458199999999
+          ],
+          [
+            114.4338,
+            -8.169761000000001
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Denpasar, Indonesia",
+        "to": "Gilimanuk, Indonesia",
+        "depart": "15/10/2014",
+        "arrive": "15/10/2014",
+        "transport": "Bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.4338,
+            -8.169761000000001
+          ],
+          [
+            114.3692267,
+            -8.2192335
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Gilimanuk, Indonesia",
+        "to": "Banyuwangi, Indonesia",
+        "depart": "15/10/2014",
+        "arrive": "15/10/2014",
+        "transport": "Ferry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.3692267,
+            -8.2192335
+          ],
+          [
+            110.3694896,
+            -7.7955798
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Banyuwangi, Indonesia",
+        "to": "Yogyakarta, Indonesia",
+        "depart": "18/10/2014",
+        "arrive": "18/10/2014",
+        "transport": "Train"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.3694896,
+            -7.7955798
+          ],
+          [
+            106.845599,
+            -6.2087634
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Yogyakarta, Indonesia",
+        "to": "Jakarta, Indonesia",
+        "depart": "21/10/2014",
+        "arrive": "21/10/2014",
+        "transport": "Train"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.845599,
+            -6.2087634
+          ],
+          [
+            103.8677444,
+            1.3553794
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Jakarta, Indonesia",
+        "to": "Singapore, Singapore",
+        "depart": "27/10/2014",
+        "arrive": "27/10/2014",
+        "transport": "Plane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.8677444,
+            1.3553794
+          ],
+          [
+            101.686855,
+            3.139003
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Singapore, Singapore",
+        "to": "Kuala Lumpur, Malaysia",
+        "depart": "30/10/2014",
+        "arrive": "30/10/2014",
+        "transport": "Bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            101.686855,
+            3.139003
+          ],
+          [
+            103.8677444,
+            1.3553794
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Kuala Lumpur, Malaysia",
+        "to": "Singapore, Singapore",
+        "depart": "03/11/2014",
+        "arrive": "03/11/2014",
+        "transport": "Plane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.8677444,
+            1.3553794
+          ],
+          [
+            115.8604572,
+            -31.9505269
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Singapore, Singapore",
+        "to": "Perth, Australia",
+        "depart": "03/11/2014",
+        "arrive": "03/11/2014",
+        "transport": "Plane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            115.8604572,
+            -31.9505269
+          ],
+          [
+            145.7780548,
+            -16.9185514
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Perth, Australia",
+        "to": "Cairns, Australia",
+        "depart": "25/11/2014",
+        "arrive": "26/11/2014",
+        "transport": "Plane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            145.7780548,
+            -16.9185514
+          ],
+          [
+            145.316667,
+            -16.25
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Cairns, Australia",
+        "to": "Daintree, Australia",
+        "depart": "20/12/2014",
+        "arrive": "20/12/2014",
+        "transport": "Hitch Hike"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            145.316667,
+            -16.25
+          ],
+          [
+            145.4547764,
+            -16.0877894
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Daintree, Australia",
+        "to": "Cape Tribulation, Australia",
+        "depart": "21/12/2014",
+        "arrive": "21/12/2014",
+        "transport": "Hitch Hike"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            145.4547764,
+            -16.0877894
+          ],
+          [
+            145.465278,
+            -16.483611
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Cape Tribulation, Australia",
+        "to": "Port Douglas, Australia",
+        "depart": "25/12/2014",
+        "arrive": "25/12/2014",
+        "transport": "Hitch Hike"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            145.465278,
+            -16.483611
+          ],
+          [
+            145.7780548,
+            -16.9185514
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Port Douglas, Australia",
+        "to": "Cairns, Australia",
+        "depart": "28/12/2014",
+        "arrive": "28/12/2014",
+        "transport": "Bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            145.7780548,
+            -16.9185514
+          ],
+          [
+            145.4858599,
+            -17.2660801
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Cairns, Australia",
+        "to": "Atherton, Australia",
+        "depart": "29/12/2014",
+        "arrive": "29/12/2014",
+        "transport": "Bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            145.4858599,
+            -17.2660801
+          ],
+          [
+            145.7780548,
+            -16.9185514
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Atherton, Australia",
+        "to": "Cairns, Australia",
+        "depart": "23/02/2015",
+        "arrive": "23/02/2015",
+        "transport": "Bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            145.7780548,
+            -16.9185514
+          ],
+          [
+            151.2092955,
+            -33.8688197
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Cairns, Australia",
+        "to": "Sydney, Australia",
+        "depart": "28/02/2015",
+        "arrive": "28/02/2015",
+        "transport": "Plane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.2092955,
+            -33.8688197
+          ],
+          [
+            103.8677444,
+            1.3553794
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Sydney, Australia",
+        "to": "Singapore, Singapore",
+        "depart": "03/03/2015",
+        "arrive": "03/03/2015",
+        "transport": "Plane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.8677444,
+            1.3553794
+          ],
+          [
+            101.686855,
+            3.139003
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Singapore, Singapore",
+        "to": "Kuala Lumpur, Malaysia",
+        "depart": "03/03/2015",
+        "arrive": "04/03/2015",
+        "transport": "Bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            101.686855,
+            3.139003
+          ],
+          [
+            100.3287589,
+            5.4141675
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Kuala Lumpur, Malaysia",
+        "to": "Penang, Malaysia",
+        "depart": "04/03/2015",
+        "arrive": "04/03/2015",
+        "transport": "Bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            100.3287589,
+            5.4141675
+          ],
+          [
+            101.686855,
+            3.139003
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Penang, Malaysia",
+        "to": "Kuala Lumpur, Malaysia",
+        "depart": "07/03/2015",
+        "arrive": "07/03/2015",
+        "transport": "Bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            101.686855,
+            3.139003
+          ],
+          [
+            100.4746879,
+            7.0086472
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Kuala Lumpur, Malaysia",
+        "to": "Hat Yai, Thailand",
+        "depart": "10/03/2015",
+        "arrive": "11/03/2015",
+        "transport": "Train"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            100.4746879,
+            7.0086472
+          ],
+          [
+            98.9062835,
+            8.0862997
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Hat Yai, Thailand",
+        "to": "Krabi, Thailand",
+        "depart": "11/03/2015",
+        "arrive": "11/03/2015",
+        "transport": "Bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            98.9062835,
+            8.0862997
+          ],
+          [
+            100.5088966,
+            13.7583679
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Krabi, Thailand",
+        "to": "Ton Sai, Thailand",
+        "depart": "13/03/2015",
+        "arrive": "13/03/2015",
+        "transport": "Boat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            100.5088966,
+            13.7583679
+          ],
+          [
+            98.8328141,
+            8.0362834
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Ton Sai, Thailand",
+        "to": "Ao Nang, Thailand",
+        "depart": "15/03/2015",
+        "arrive": "15/03/2015",
+        "transport": "Boat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            98.8328141,
+            8.0362834
+          ],
+          [
+            99.3217483,
+            9.1382389
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Ao Nang, Thailand",
+        "to": "Surat Thani, Thailand",
+        "depart": "15/03/2015",
+        "arrive": "15/03/2015",
+        "transport": "Bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            99.3217483,
+            9.1382389
+          ],
+          [
+            100.5017651,
+            13.7563309
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Surat Thani, Thailand",
+        "to": "Bangkok, Thailand",
+        "depart": "15/03/2015",
+        "arrive": "16/03/2015",
+        "transport": "Train"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            100.5017651,
+            13.7563309
+          ],
+          [
+            77.2090212,
+            28.6139391
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Bangkok, Thailand",
+        "to": "New Delhi, India",
+        "depart": "17/03/2015",
+        "arrive": "17/03/2015",
+        "transport": "Plane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2090212,
+            28.6139391
+          ],
+          [
+            -1.890401,
+            52.48624299999999
+          ]
+        ]
+      },
+      "properties": {
+        "from": "New Delhi, India",
+        "to": "Birmingham, UK",
+        "depart": "17/03/2015",
+        "arrive": "17/03/2015",
+        "transport": "Plane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.890401,
+            52.48624299999999
+          ],
+          [
+            -1.85754,
+            53.72702
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Birmingham, UK",
+        "to": "Halifax, UK",
+        "depart": "17/03/2015",
+        "arrive": "17/03/2015",
+        "transport": "Train"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.85754,
+            53.72702
+          ],
+          [
+            -0.1277583,
+            51.5073509
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Halifax, UK",
+        "to": "London, UK",
+        "depart": "23/03/2016",
+        "arrive": "23/03/2016",
+        "transport": "Bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.1277583,
+            51.5073509
+          ],
+          [
+            6.9602786,
+            50.937531
+          ]
+        ]
+      },
+      "properties": {
+        "from": "London, UK",
+        "to": "Köln, Germany",
+        "depart": "23/03/2016",
+        "arrive": "23/03/2016",
+        "transport": "Bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.9602786,
+            50.937531
+          ],
+          [
+            11.5819806,
+            48.1351253
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Köln, Germany",
+        "to": "Munich, Germany",
+        "depart": "23/03/2016",
+        "arrive": "24/03/2016",
+        "transport": "Bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5819806,
+            48.1351253
+          ],
+          [
+            13.05501,
+            47.80949
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Munich, Germany",
+        "to": "Salzburg, Austria",
+        "depart": "25/03/2016",
+        "arrive": "25/03/2016",
+        "transport": "Bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.05501,
+            47.80949
+          ],
+          [
+            14.5057515,
+            46.0569465
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Salzburg, Austria",
+        "to": "Ljubljana, Slovenia",
+        "depart": "28/03/2016",
+        "arrive": "28/03/2016",
+        "transport": "Car"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.5057515,
+            46.0569465
+          ],
+          [
+            15.981919,
+            45.8150108
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Ljubljana, Slovenia",
+        "to": "Zagreb, Croatia",
+        "depart": "30/03/2016",
+        "arrive": "30/03/2016",
+        "transport": "Bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.981919,
+            45.8150108
+          ],
+          [
+            15.2313648,
+            44.119371
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Zagreb, Croatia",
+        "to": "Zadar, Croatia",
+        "depart": "01/04/2016",
+        "arrive": "01/04/2016",
+        "transport": "Car"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.2313648,
+            44.119371
+          ],
+          [
+            16.4401935,
+            43.5081323
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Zadar, Croatia",
+        "to": "Split, Croatia",
+        "depart": "03/04/2016",
+        "arrive": "03/04/2016",
+        "transport": "Bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.4401935,
+            43.5081323
+          ],
+          [
+            15.2313648,
+            44.119371
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Split, Croatia",
+        "to": "Zadar, Croatia",
+        "depart": "06/04/2016",
+        "arrive": "06/04/2016",
+        "transport": "Bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.2313648,
+            44.119371
+          ],
+          [
+            -0.1277583,
+            51.5073509
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Zadar, Croatia",
+        "to": "London, UK",
+        "depart": "07/04/2016",
+        "arrive": "07/04/2016",
+        "transport": "Plane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.1277583,
+            51.5073509
+          ],
+          [
+            -1.85754,
+            53.72702
+          ]
+        ]
+      },
+      "properties": {
+        "from": "London, UK",
+        "to": "Halifax, UK",
+        "depart": "08/04/2016",
+        "arrive": "08/04/2016",
+        "transport": "Bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.85754,
+            53.72702
+          ],
+          [
+            4.895167900000001,
+            52.3702157
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Halifax, UK",
+        "to": "Amsterdam, The Netherlands",
+        "depart": "14/04/2016",
+        "arrive": "14/04/2016",
+        "transport": "Plane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.895167900000001,
+            52.3702157
+          ],
+          [
+            -83.0457538,
+            42.331427
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Amsterdam, The Netherlands",
+        "to": "Detroit, USA",
+        "depart": "14/04/2016",
+        "arrive": "14/04/2016",
+        "transport": "Plane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.0457538,
+            42.331427
+          ],
+          [
+            -80.1917902,
+            25.7616798
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Detroit, USA",
+        "to": "Miami, USA",
+        "depart": "14/04/2016",
+        "arrive": "14/04/2016",
+        "transport": "Plane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.1917902,
+            25.7616798
+          ],
+          [
+            -80.13731740000001,
+            26.1224386
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Miami, USA",
+        "to": "Fort Lauderdale, USA",
+        "depart": "15/04/2016",
+        "arrive": "15/04/2016",
+        "transport": "Train"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.13731740000001,
+            26.1224386
+          ],
+          [
+            -77.355413,
+            25.0479835
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Fort Lauderdale, USA",
+        "to": "Nassau, Bahamas",
+        "depart": "16/04/2016",
+        "arrive": "17/04/2016",
+        "transport": "Cruise Ship"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.355413,
+            25.0479835
+          ],
+          [
+            -64.95340089999999,
+            18.335361
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Nassau, Bahamas",
+        "to": "St. Thomas, US Virgin Islands",
+        "depart": "17/04/2016",
+        "arrive": "19/04/2016",
+        "transport": "Cruise Ship"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -64.95340089999999,
+            18.335361
+          ],
+          [
+            -63.04713709999999,
+            18.0295839
+          ]
+        ]
+      },
+      "properties": {
+        "from": "St. Thomas, US Virgin Islands",
+        "to": "Philipsburg, Sint Maarten",
+        "depart": "19/04/2016",
+        "arrive": "20/04/2016",
+        "transport": "Cruise Ship"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -63.04713709999999,
+            18.0295839
+          ],
+          [
+            -80.13731740000001,
+            26.1224386
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Philipsburg, Sint Maarten",
+        "to": "Fort Lauderdale, USA",
+        "depart": "19/04/2016",
+        "arrive": "23/04/2016",
+        "transport": "Cruise Ship"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.13731740000001,
+            26.1224386
+          ],
+          [
+            -80.1917902,
+            25.7616798
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Fort Lauderdale, USA",
+        "to": "Miami, USA",
+        "depart": "23/04/2016",
+        "arrive": "23/04/2016",
+        "transport": "Car"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.1917902,
+            25.7616798
+          ],
+          [
+            -81.7799871,
+            24.5550593
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Miami, USA",
+        "to": "Key West, USA",
+        "depart": "25/04/2016",
+        "arrive": "25/04/2016",
+        "transport": "Car"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -81.7799871,
+            24.5550593
+          ],
+          [
+            -80.1917902,
+            25.7616798
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Key West, USA",
+        "to": "Miami, USA",
+        "depart": "25/04/2016",
+        "arrive": "25/04/2016",
+        "transport": "Car"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.1917902,
+            25.7616798
+          ],
+          [
+            -74.0059413,
+            40.7127837
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Miami, USA",
+        "to": "New York, USA",
+        "depart": "28/04/2016",
+        "arrive": "28/04/2016",
+        "transport": "Plane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0059413,
+            40.7127837
+          ],
+          [
+            4.895167900000001,
+            52.3702157
+          ]
+        ]
+      },
+      "properties": {
+        "from": "New York, USA",
+        "to": "Amsterdam, The Netherlands",
+        "depart": "28/04/2016",
+        "arrive": "29/04/2016",
+        "transport": "Plane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.895167900000001,
+            52.3702157
+          ],
+          [
+            -1.85754,
+            53.72702
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Amsterdam, The Netherlands",
+        "to": "Halifax, UK",
+        "depart": "29/04/2016",
+        "arrive": "29/04/2016",
+        "transport": "Plane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.85754,
+            53.72702
+          ],
+          [
+            -0.1277583,
+            51.5073509
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Halifax, UK",
+        "to": "London, UK",
+        "depart": "20/06/2016",
+        "arrive": "20/06/2016",
+        "transport": "Bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.1277583,
+            51.5073509
+          ],
+          [
+            7.261953200000001,
+            43.7101728
+          ]
+        ]
+      },
+      "properties": {
+        "from": "London, UK",
+        "to": "Nice, France",
+        "depart": "21/06/2016",
+        "arrive": "21/06/2016",
+        "transport": "Plane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.261953200000001,
+            43.7101728
+          ],
+          [
+            6.148582999999999,
+            43.529171
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Nice, France",
+        "to": "Cotignac, France",
+        "depart": "21/06/2016",
+        "arrive": "21/06/2016",
+        "transport": "Car"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.148582999999999,
+            43.529171
+          ],
+          [
+            7.261953200000001,
+            43.7101728
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Cotignac, France",
+        "to": "Nice, France",
+        "depart": "28/06/2016",
+        "arrive": "28/06/2016",
+        "transport": "Car"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.261953200000001,
+            43.7101728
+          ],
+          [
+            -0.1277583,
+            51.5073509
+          ]
+        ]
+      },
+      "properties": {
+        "from": "Nice, France",
+        "to": "London, UK",
+        "depart": "29/06/2016",
+        "arrive": "29/06/2016",
+        "transport": "Plane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.1277583,
+            51.5073509
+          ],
+          [
+            -1.85754,
+            53.72702
+          ]
+        ]
+      },
+      "properties": {
+        "from": "London, UK",
+        "to": "Halifax, UK",
+        "depart": "29/06/2016",
+        "arrive": "30/06/2016",
+        "transport": "Bus"
+      }
+    }
+  ]
+}

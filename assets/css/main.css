@@ -33,7 +33,7 @@ p {
 }
 
 .centered {
-    text-align: left;
+    text-align: center;
 }
 
 /* Links */
@@ -80,7 +80,7 @@ a:after {
   width: 80%;
 }
 .carousel-indicators {
-	bottom:-175px;
+	bottom:-230px;
 }
 .carousel-inner { z-index: -99; } /* keeps this behind all content */
 .carousel .item {
@@ -101,6 +101,25 @@ a:after {
     z-index:2;
 }
 
+.navbar-nav > li > a, .navbar-brand {
+    padding-top:5px !important; padding-bottom:0 !important;
+    height: 30px;
+}
+.navbar {
+  min-height:30px !important;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300;
+}
+
+.fixNav {
+  position:fixed;
+  -webkit-transform: translateZ(0);
+  top:0;
+  width:100%;
+}
+.fixPadding {
+  padding-top:30px;
+}
 
 /* ==========================================================================
    Wrap Sections
@@ -155,8 +174,8 @@ a:after {
 
 .s {
 	background: #e0e0e0;
-	padding-top: 70px;
-	padding-bottom: 70px;
+	padding-top: 50px;
+	padding-bottom: 40px;
 	text-align: left;
 }
 
@@ -180,10 +199,6 @@ a:after {
 
 .s img {
 	text-align: center;
-}
-
-#aboutDiv {
-
 }
 
 #emailLink, #phoneLink {

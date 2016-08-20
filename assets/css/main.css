@@ -121,7 +121,6 @@ a:after {
   position:fixed;
   -webkit-transform: translateZ(0);
   top: 0;
-  opacity: 1;
 }
 .fixPadding {
   padding-top: 30px;

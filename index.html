@@ -185,6 +185,7 @@
         $(window).scroll(function () {
           if ($(window).scrollTop() > $("#headerwrap").height()) {
             $('#navBottom').addClass('fixNav');
+            $('#navBottom').css("opacity", 1);
             $('#about').addClass('fixPadding');
           }
           if ($(window).scrollTop() < $("#headerwrap").height()) {

@@ -23,6 +23,7 @@
     <link href='http://fonts.googleapis.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=EB+Garamond' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Slabo+27px' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -31,7 +32,7 @@
     <![endif]-->
   </head>
 
-  <body data-spy="scroll" data-offset="20px;" data-target="#navBottom">
+  <body data-spy="scroll" data-offset="20" data-target="#navBottom">
 
   	<!-- ========== HEADER SECTION ========== -->
   	<section id="home" name="home">
@@ -65,14 +66,14 @@
     	</div>
     </section>
 
-    <nav class="navbar navbar-inverse" id="navBottom" style="margin-bottom:0px;height:30px;">
-      <div class="nav navbar-nav" style="height:30px;">
-        <span>&nbsp;&nbsp;&nbsp;<a href="#home" class="smoothScroll">Home</a> || </span>
-        <span><a href="#about" class="smoothScroll">About</a> || </span>
-        <span><a href="#softwareDev" class="smoothScroll">Software Dev</a> || </span>
-        <span><a href="#blog" class="smoothScroll">Blog</a> || </span>
-        <span><a href="#travels" class="smoothScroll">Travels</a> || </span>
-        <span><a href="#contact" class="smoothScroll">Contact Me</a></span>
+    <nav class="navbar navbar" id="navBottom" style="margin-bottom:0px;width:100%;">
+      <div class="nav navbar-nav">
+        <span style="padding-right:10px;">&nbsp;&nbsp;&nbsp; :: <a href="#home" class="smoothScroll">Home</a></span>
+        <span style="padding-right:10px;"> :: <a href="#about" class="smoothScroll">About</a></span>
+        <span style="padding-right:10px;"> :: <a href="#softwareDev" class="smoothScroll">Software Dev</a></span>
+        <span style="padding-right:10px;"> :: <a href="#blog" class="smoothScroll">Blog</a></span>
+        <span style="padding-right:10px;"> :: <a href="#travels" class="smoothScroll">Travels</a></span>
+        <span style="padding-right:10px;"> :: <a href="#contact" class="smoothScroll">Contact Me</a></span>
       </div>
     </nav>
 
@@ -155,7 +156,7 @@
     	<div id="contactDiv" class="s">
     		<div class="container">
     			<div class="row">
-    				<h3 class="col-lg-9">CONTACT ME</h3>
+    				<h3 class="col-lg-9">CONTACT</h3>
             <hr class="col-lg-12" />
 
             <!-- CONTACT BODY -->
@@ -174,7 +175,6 @@
   	<script src="assets/js/classie.js"></script>
     <script src="assets/js/bootstrap.min.js"></script>
     <script src="assets/js/smoothscroll.js"></script>
-  	<script src="assets/js/main.js"></script>
 
     <script type="text/javascript">
       var emailArr = ["aj", "m", "htug.ei", "eir", "liamg@", "moc."];
@@ -188,6 +188,7 @@
             $('#about').addClass('fixPadding');
           }
           if ($(window).scrollTop() < $("#headerwrap").height()) {
+            $('#navBottom').css("opacity", $(window).scrollTop() / $("#headerwrap").height());
             $('#navBottom').removeClass('fixNav');
             $('#about').removeClass('fixPadding');
           }
@@ -229,7 +230,7 @@
         $.each(data.images, function(i, img) {
           var imgUrl = "assets/img/" + img["url"];
           var imgDiv = "";
-          imgDiv = '<div class="item" style="background: url(' + imgUrl + ');background-size: cover;-moz-background-size: cover;background-position: center top;' + img["style"] + '">\n';
+          imgDiv = '<div class="item" style="background: url(' + imgUrl + ');background-size: cover;-moz-background-size: cover;' + img["style"] + '">\n';
           imgDiv += '  <div class="carousel-caption">\n';
           imgDiv += '    <p>' + img["desc"] + '</p>\n';
           imgDiv += '  </div>\n';
